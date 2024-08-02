@@ -4,7 +4,7 @@
 </div>
 
 [![Telegram Badge](https://img.shields.io/badge/-@DsJohny-26A5E4?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/dsjohny)](https://t.me/DsJohnY)
-
+[![Gmail_Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=Uakubovskij@gmail.com)](Uakubovskij@gmail.com)
 ---
 
 - 🚀 I use daily:
