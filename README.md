@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenl1ZmM1dTB3d2o3aHFia205c3F2Z3VtOTVudXdyMTE1cHdyZGhtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/>
 </div>
+[![Telegram Badge](https://img.shields.io/badge/-@DsJohny-26A5E4?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/rezajkee)](https://t.me/DsJohnY)
 
 ---
 
@@ -18,11 +19,9 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-E07358?style=flat-square&logo=postgresql)
   ![HTML5](https://img.shields.io/badge/-HTML5-103FE3?style=flat-square&logo=html5&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-40B35A?style=flat-square&logo=bootstrap)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-960F8A?style=flat-square&logo=FastAPI)
   
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DsJohn&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsjohn&layout=compact&exclude_repo=carzone,online-shop-app,e-learning-app)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dsjohn.dsjohn)
